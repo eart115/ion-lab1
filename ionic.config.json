@@ -1,0 +1,7 @@
+{
+  "name": "ion-Parapon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
